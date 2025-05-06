@@ -78,3 +78,9 @@ O ZC não busca substituir o zero tradicional, mas expandir sua compreensão e a
 ---
 
 **Proposto por Lucas Eduardo Pedroso**, como parte de uma nova abordagem que integra o zero, a continuidade e o infinito em uma única visão matemática.
+
+
+## 📄 Licenciamento
+
+- **Código-fonte**: Licenciado sob a [GNU AGPL v3.0](LICENSE).
+- **Documentação e conteúdo conceitual**: Licenciado sob a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
